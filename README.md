@@ -23,7 +23,7 @@
 
 This is a template project used to kickstart a Flask project containing:
 
-* Bootstrap 4 CDN
+* Bootstrap 4.5.2 CDN
 * Procfile for Heroku
 * python-dotenv for setting up local variables
 
